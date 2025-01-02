@@ -156,6 +156,8 @@ namespace ColorConvertor
                 pnlColor.BackColor = Color.White;
                 lblColorHere.Text = "Color Isn't Valid";                
                 lblColorHere.Visible = true;
+                tbColorRGB.Text = "";
+                tbColorRGB2.Text = "";
             }
         }
         private void pbCopy_Click(object sender, EventArgs e)
