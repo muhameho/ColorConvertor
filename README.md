@@ -32,3 +32,6 @@ Feel free to fork the repository and submit pull requests if you want to improve
 
 ### 🔗 GitHub Repository:
 https://github.com/muhameho/ColorConvertor
+
+### 📷 Screenshot from the app:
+![Color Picker](https://github.com/user-attachments/assets/8d99527a-fa5c-4fe4-80fb-48753f3df77f)
